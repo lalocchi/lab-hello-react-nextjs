@@ -7,8 +7,11 @@ Below you can see the verification steps for iterations:
 
 ## Screenshots
 
+
+Hello React
 ![Hello React](images/1.png)
 
+The React Store
 ![The React Store](images/2.png)
 
 ![Home Page](images/3.png)
@@ -17,4 +20,5 @@ Below you can see the verification steps for iterations:
 
 ![inStock: true and inStock: false](images/5.png)
 
+Bonus
 ![Bonus: grid styling](images/6.png)
