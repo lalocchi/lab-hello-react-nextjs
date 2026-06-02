@@ -4,3 +4,17 @@ A simple online store page built with React and Next.js. The project demonstrate
 
 
 Below you can see the verification steps for iterations:
+
+## Screenshots
+
+![Hello React](images/1.png)
+
+![The React Store](images/2.png)
+
+![Home Page](images/3.png)
+
+![Products](images/4.png)
+
+![inStock: true and inStock: false](images/5.png)
+
+![Bonus: grid styling](images/6.png)
